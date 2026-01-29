@@ -1,0 +1,24 @@
+{
+
+    "iron" : {
+        "base": 0.01,
+        "addition": 0.02
+    },
+
+    "amethyst": {
+        "base": 0.005,
+        "addition": 0.005
+    },
+
+    "gold": {
+        "base": 0.003,
+        "addition": 0.003
+    },
+
+    "diamond": {
+
+        "base": 0.001,
+        "addition": 0.002
+    }
+
+}

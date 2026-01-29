@@ -1,0 +1,38 @@
+name: mining_shooter
+description: Space Shooter Game
+version: 0.0.1+1
+publish_to: none
+
+environment:
+  sdk: ^3.10.7
+  flutter: ^3.38.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.32.0
+  flame_texturepacker: ^5.0.1
+  path_provider: ^2.1.5
+  json_annotation: ^4.9.0
+  flame_test: ^2.0.3
+  flutter_soloud: ^3.3.9
+  back_button_interceptor: ^8.0.4
+
+flutter:
+  assets:
+    - 'assets/'
+    - 'assets/audio/'
+    - 'assets/images/'
+    - 'assets/data/mining_area_1/'
+    - 'assets/data/mining_area_2/'
+    - 'assets/data/mining_area_3/'
+    - 'assets/data/upgrade/'
+    - 'assets/data/area_cost/'
+    - 'assets/save/'
+  fonts:
+    - family: 'Jersey15-Regular'
+      fonts:
+      - asset: assets/fonts/Jersey15-Regular.ttf 		
+dev_dependencies:
+  build_runner: ^2.7.1
+  json_serializable: ^6.11.0

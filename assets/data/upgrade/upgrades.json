@@ -1,0 +1,49 @@
+{
+  "health_upgrade": {
+    "ores": {
+      "iron-ore": 50,
+      "gold-ore": 60,
+      "amethyst-ore": 70,
+      "diamond-ore": 80
+    },
+    "health": 1,
+    "max_level": 9,
+    "cost_multiplier": 100,
+    "health_multiplier": 1
+  },
+  
+  "attack_upgrade": {
+    "ores": {
+      "iron-ore": 50,
+      "gold-ore": 60,
+      "amethyst-ore": 70,
+      "diamond-ore": 80
+    },
+    "attack": 1,
+    "max_level": 29,
+    "cost_multiplier": 150,
+    "attack_multiplier": 1
+  },
+
+  "bullet_upgrade": {
+    "ores": {
+      "iron-ore": 50,
+      "gold-ore": 60,
+      "amethyst-ore": 70,
+      "diamond-ore": 80
+    },
+    "max_level": 2,
+    "bullet": 1,
+    "cost_multiplier": 200,
+    "bullet_multiplier": 1
+  },
+
+  "pickaxe_upgrade": {
+    "coins": 500,
+    "cost_multiplier": 150,
+    "max_level": 1999,
+    "damage": 5,
+    "damage_multiplier": 5
+
+  }
+}

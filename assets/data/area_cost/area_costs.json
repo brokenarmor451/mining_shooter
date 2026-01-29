@@ -1,0 +1,24 @@
+{
+  "Mining Area 2" : {
+    "coins": 5000
+  },
+
+  "Mining Area 3" : {
+    "coins": 25000
+  },
+
+  "Battle Area 2" : {
+    "iron-ore": 1000,
+    "amethyst-ore": 1000,
+    "gold-ore": 1000,
+    "diamond-ore": 1000
+  },
+
+  "Battle Area 3" : {
+    "iron-ore": 2000,
+    "amethyst-ore": 2000,
+    "gold-ore": 2000,
+    "diamond-ore": 2000
+  }
+
+}

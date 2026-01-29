@@ -1,0 +1,349 @@
+
+graphics.png
+size: 256, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+amethyst-ore
+  rotate: false
+  xy: 181, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+asteroid-big-blue
+  rotate: false
+  xy: 147, 479
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+asteroid-big-dark-blue
+  rotate: false
+  xy: 1, 13
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+asteroid-big-red
+  rotate: false
+  xy: 147, 445
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+asteroid-blue
+  rotate: false
+  xy: 215, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+asteroid-dark-blue
+  rotate: false
+  xy: 69, 29
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+asteroid-explosion-blue
+  rotate: false
+  xy: 147, 401
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+asteroid-explosion-blue
+  rotate: false
+  xy: 181, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+asteroid-explosion-blue
+  rotate: false
+  xy: 199, 477
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+asteroid-explosion-blue
+  rotate: false
+  xy: 233, 495
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+asteroid-explosion-dark-blue
+  rotate: false
+  xy: 87, 29
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+asteroid-explosion-dark-blue
+  rotate: false
+  xy: 147, 383
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+asteroid-explosion-dark-blue
+  rotate: false
+  xy: 199, 459
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+asteroid-explosion-dark-blue
+  rotate: false
+  xy: 105, 29
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+asteroid-explosion-red
+  rotate: false
+  xy: 147, 365
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+asteroid-explosion-red
+  rotate: false
+  xy: 147, 347
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+asteroid-explosion-red
+  rotate: false
+  xy: 147, 329
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+asteroid-explosion-red
+  rotate: false
+  xy: 147, 311
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+asteroid-red
+  rotate: false
+  xy: 147, 293
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 251, 503
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+button-blue
+  rotate: false
+  xy: 181, 495
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+button-gray
+  rotate: false
+  xy: 35, 29
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 147, 275
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-particle
+  rotate: false
+  xy: 147, 257
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+coin-particle
+  rotate: false
+  xy: 35, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+coin-particle
+  rotate: false
+  xy: 53, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+coin-particle
+  rotate: false
+  xy: 71, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+diamond-ore
+  rotate: false
+  xy: 89, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dig-particle
+  rotate: false
+  xy: 107, 11
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+dig-particle
+  rotate: false
+  xy: 133, 237
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+dig-particle
+  rotate: false
+  xy: 133, 219
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+dig-particle
+  rotate: false
+  xy: 133, 201
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+gold-ore
+  rotate: false
+  xy: 133, 183
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+health-empty
+  rotate: false
+  xy: 151, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+inventory-background
+  rotate: false
+  xy: 1, 125
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+inventory-icon-down
+  rotate: false
+  xy: 133, 165
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+inventory-icon-up
+  rotate: false
+  xy: 133, 147
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+iron-ore
+  rotate: false
+  xy: 133, 129
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pickaxe
+  rotate: false
+  xy: 181, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+slot
+  rotate: false
+  xy: 147, 419
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+spaceship
+  rotate: false
+  xy: 199, 441
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+spaceship
+  rotate: false
+  xy: 151, 239
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+spaceship
+  rotate: false
+  xy: 151, 221
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+spaceship
+  rotate: false
+  xy: 151, 203
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+stone-block
+  rotate: false
+  xy: 151, 185
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 47
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+title-background
+  rotate: false
+  xy: 1, 255
+  size: 144, 256
+  orig: 144, 256
+  offset: 0, 0
+  index: -1
+window-background
+  rotate: false
+  xy: 151, 167
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

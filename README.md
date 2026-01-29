@@ -1,0 +1,5 @@
+Mining Shooter
+
+A space shooter game where you battle asteroids and mine valuable resources. Destroy asteroids in combat zones to earn coins, which can be used to upgrade your pickaxe. Explore mining zones to collect ores that enhance and upgrade your spaceship.
+
+In combat zones, smaller asteroids grow stronger over time—their health increases every 30 seconds up to a fixed maximum. The number of coins you earn from destroying an asteroid is equal to its health.
